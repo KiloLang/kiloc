@@ -1,7 +1,0 @@
-func main() -> int:
-    println("Hello, World!")
-    
-    print("Another, ")
-    print("Line.")
-
-    return 0
